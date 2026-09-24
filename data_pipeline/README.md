@@ -9,3 +9,4 @@ Decision Log:
 - Scraped 5 pages (100 books) to meet >=60 requirement, real category from product breadcrumb to get >=3 categories
 - Normalized schema: categories(category_id PK) -> books(category_id FK) for 3NF
 - Queries demonstrate SELECT/WHERE, ORDER BY, LIMIT, DISTINCT, IN, BETWEEN, JOIN
+# verified Thu Sep 24 04:17:57 PM UTC 2026
