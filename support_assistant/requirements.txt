@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+chromadb==0.5.11
+sentence-transformers==2.7.0
+transformers==4.41.2
+numpy==1.26.4
+langgraph==0.2.39
+pydantic
+python-dotenv
+groq
